@@ -1,0 +1,26 @@
+Arguments: 
+  /usr/local/bin/node /opt/yarn-v1.10.1/bin/yarn.js add mongoose
+
+PATH: 
+  /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+Yarn version: 
+  1.10.1
+
+Node version: 
+  10.13.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: EPROTO: protocol error, symlink '../../../semver/bin/semver' -> '/home/node/app/node_modules/require_optional/node_modules/.bin/semver'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
